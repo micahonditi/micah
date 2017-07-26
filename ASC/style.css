@@ -1,0 +1,35 @@
+body{
+    background: blue;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.singleBurger{
+
+    border: solid 3px purple;
+    background-color: red;
+    width:65%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25%;
+    padding: 10%;
+}
+
+.mainContent {
+
+    border: dashed 5px yellow;
+}
+
+img{
+
+width:35%;
+vertical-align: middle;
+}
+
+p {
+
+    width:64%; /* Getting the width to 100% will cause BUNCHING */
+    display: inline-block;
+    vertical-align: middle;
+}
